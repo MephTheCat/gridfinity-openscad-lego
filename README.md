@@ -7,6 +7,10 @@ To simply generate STLs, use the following command.  In this case, for a module 
 
 `openscad -o Lego_2x2.stl gridfinity-lego-generator.scad -D "g_x=2;g_y=2"`
 
+The result of which can be seen below.
+
+[<img src="./images/2x2_example.png" height="200">]()
+
 
 ## Library Usage
 If you wish to use this as part of a larger OpenSCAD project, the following modules are available.
@@ -24,3 +28,14 @@ Lego studs are spaced 8mm apart center-to-center and the Gridfinity system is ba
 A big thank you to [Zack Freedman](https://www.youtube.com/@ZackFreedman) of Void Star Labs for designing and publishing specifications on the Gridfinity system.
 
 Additionally, thank you to Kennetek on the Void Star Discord for telling me about his OpenSCAD implementation of the Gridfinity system, as it dramatically simplified my code.
+
+
+## License
+This work is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
