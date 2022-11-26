@@ -9,7 +9,7 @@ To simply generate STLs, use the following command.  In this case, for a module 
 
 The result of which can be seen below.
 
-[<img src="./images/2x2_example.png" height="200">]()
+[<img src="./images/2x2_example.png" height="200">](./images/2x2_example.png)
 
 
 ## Library Usage
