@@ -1,6 +1,7 @@
 # LEGO Compatible Gridfinity Module Generator
 
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+This work is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
 
 A LEGO compatible [Gridfinity](https://www.youtube.com/watch?v=ra_9zU-mnl8) module generator written in OpenSCAD.  This generator relies on [Kennetek's Gridfinity OpenSCAD implementation](https://github.com/kennetek/gridfinity-rebuilt-openscad) and is included as a submodule.
 
